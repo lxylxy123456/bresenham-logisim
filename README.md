@@ -1,5 +1,5 @@
 # bresenham-logisim
-* Implementation of Bresenham's line algorithm using logisim
+Implementation of Bresenham's line algorithm using logisim
 
 ## Requirements
 * [Logisim](http://www.cburch.com/logisim/index.html) (known to work on 2.7.1)
@@ -18,6 +18,9 @@
 	drawing a line from (x1, y1) to (x2, y2) using the Bresenham's line
 	algorithm. 
 
-## TODO
-* Demo
+## Lisence
+* This project is published under GNU AFFERO GENERAL PUBLIC LICENSE Version 3.
+
+## Demo
+![](demo.gif)
 

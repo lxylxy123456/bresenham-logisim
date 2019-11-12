@@ -3,7 +3,7 @@
 * `bresenham.circ`: implement Bresenham's line drawing algorithm
 
 ## Requirements
-* [Logisim](http://www.cburch.com/logisim/index.html)
+* [Logisim](http://www.cburch.com/logisim/index.html) (known to work on 2.7.1)
 
 ## Use
 1. Open `bresenham.circ` with Logisim. 
@@ -14,4 +14,7 @@
 6. The LED Matrix on the screen should change in respond to the changes, by
 	drawing a line from (x1, y1) to (x2, y2) using the Bresenham's line
 	algorithm. 
+
+## TODO
+* Demo
 

@@ -1,11 +1,14 @@
-# Try to implement simple algorithms in Project 1 using logisim
-* `skeleton.circ`: skeleton code provided before Project 1
-* `bresenham.circ`: implement Bresenham's line drawing algorithm
+# bresenham-logisim
+* Implementation of Bresenham's line algorithm using logisim
 
 ## Requirements
 * [Logisim](http://www.cburch.com/logisim/index.html) (known to work on 2.7.1)
 
-## Use
+## Files
+* `skeleton.circ`: skeleton code provided before Project 1
+* `bresenham.circ`: implement Bresenham's line drawing algorithm
+
+## Usage
 1. Open `bresenham.circ` with Logisim. 
 2. Set "Simulate -> Tick Frequency" (128 Hz or higher recommended). 
 3. Select "Simulate -> Ticks Enabled" (Ctrl-K). 
